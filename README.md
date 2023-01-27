@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnselmeDonato
 - 👀 I’m interested in code, music, drawing and video games
-- 🌱 I’m currently learning QA
+- 🌱 I’m currently learning rust @Stockly
 - 💞️ I’m looking to collaborate about whatever you want 
 - 📫 How to reach me anselme.donato2@gmail.com
 
